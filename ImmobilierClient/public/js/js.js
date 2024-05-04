@@ -1,5 +1,3 @@
-require('./bootstrap');
-
 //définir la la largeur de la sidebar a 100vw  et faire un overflow hidden
 
 function openNav(){
